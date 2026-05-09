@@ -49,8 +49,6 @@ Display the final state-value grid.
 ```
 ```
 
----
-
 # Output
 
 ```text
