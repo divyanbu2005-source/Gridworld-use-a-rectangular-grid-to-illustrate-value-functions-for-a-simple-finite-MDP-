@@ -11,6 +11,7 @@ The aim of this project is to implement a Gridworld environment using Reinforcem
 
 ## Iterative Policy Evaluation Algorithm for Gridworld
 
+
 ### Step 1
 Initialize the Gridworld environment.
 
@@ -49,6 +50,9 @@ Display the final state-value grid.
 # Program
 
 ```
+Name : Divya A
+Register number : 2305002007
+
 #GridWorld
 
 import numpy as np
